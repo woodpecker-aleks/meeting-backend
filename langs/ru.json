@@ -25,5 +25,17 @@
   "settings.title": "Настройки",
   "logout.title": "Выйти",
   "lang.ru": "Русский",
-  "lang.en": "Английский"
+  "lang.en": "Английский",
+  "name.title": "Имя",
+  "surname.title": "Фамилия",
+  "email.title": "Почта",
+  "password.title": "Пароль",
+  "confirm-password.title": "Подтвердите пароль",
+  "register.title": "Зарегистрироваться",
+  "login.title": "Войти",
+  "validation.required": "Это поле обязательно",
+  "validation.password": "Пароль должен содержать минимум {{minSymbols}} символов. Как минимум {{minSmallLetters}} маленьких букв, {{minBigLetters}} больших букв и {{minNumbers}} число",
+  "validation.email": "Не похоже на почту",
+  "validation.confirm-password": "Это поле отличается от пароля",
+  "validation.name": "Это поле должно содержать как минимум {{minSymbols}} символов. Должны быть только буквы"
 }

@@ -25,5 +25,17 @@
   "settings.title": "Settings",
   "logout.title": "Logout",
   "lang.ru": "Russian",
-  "lang.en": "English"
+  "lang.en": "English",
+  "name.title": "Name",
+  "surname.title": "Surname",
+  "email.title": "Email",
+  "password.title": "Password",
+  "confirm-password.title": "Confirm password",
+  "register.title": "Sign Up",
+  "login.title": "Sign In",
+  "validation.required": "This field is required",
+  "validation.password": "Password needs min {{minSymbols}} symbols. At least {{minSmallLetters}} small letter, {{minBigLetters}} big letter and {{minNumbers}} number",
+  "validation.email": "Its not match email",
+  "validation.confirm-password": "This field not match to password",
+  "validation.name": "This field must has at least {{minSymbols}} symbols. Shoult be only letters"
 }
